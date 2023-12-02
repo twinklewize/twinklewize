@@ -1,4 +1,4 @@
-## I'm a ML Engineer
+## ML Engineer
 
 <!-- About me -->
 
